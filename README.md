@@ -37,7 +37,7 @@ Dokumentasi progres pengembangan sistem pusat komputasi untuk retensi pengguna d
 Untuk tahap Data Prepocessing & Cleaning, Exploratory Data Analysis (EDA), Feature Engineering & Selection, Model Selection, Model Training, Model Evaluation, Model Optimization (Hyperparameter Tuning), dan Model Validation bisa dibuka dengan [Google Collab](https://colab.research.google.com/drive/1Rgu0V0fmuFxx9VKVu605AUDy_kWysTlb?usp=sharing). Sedangkan untuk Deployment Machine Learning kalian bisa lihat di [repo CHURN-ML](https://github.com/PBL-S6-CHURN/CHURN-ML).
 
 ### 4. Natural Language Processing
-* [Link Google Collab](https://www.figma.com/design/glqOypUMAZ3ijArhodEOYx/Untitled?node-id=0-1&t=F1VbJZZ6W9xMsq2s-1)
+* [Link Google Collab](https://colab.research.google.com/drive/1GsDK9k-hS7jDSRW1t7_oLSIwyem4Uz9d)
 
 ### 4. Pemodelan & Perancangan Sistem
 * [Perancangan UI & UX](https://www.figma.com/design/glqOypUMAZ3ijArhodEOYx/Untitled?node-id=0-1&t=F1VbJZZ6W9xMsq2s-1)
