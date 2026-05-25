@@ -27,23 +27,24 @@ Dokumentasi progres pengembangan sistem pusat komputasi untuk retensi pengguna d
 * [Pembuatan Business Model Canva](https://docs.google.com/presentation/d/19ULPi9D5zcorsoh4uI9CPUmpaIZZ0Dok/edit?usp=drive_link&ouid=109124272291256693364&rtpof=true&sd=true)
 * [Membuat Use Case Diagram](https://drive.google.com/file/d/199Iq45xYUycHM6_j14aof9OxDAYGAqlJ/view?usp=drive_link)
 * [Membuat Use Case Scenario](https://docs.google.com/document/d/1F1msVSZqeuwz7j8nbumLRfScj-sRdwNA/edit?usp=drive_link&ouid=109124272291256693364&rtpof=true&sd=true)
-* [Membuat Activity Diagram](https://drive.google.com/file/d/1VjhtC9dtiC2w3aVXo9IDfOgepCU9kMtQ/view?usp=drive_link)
-* [Membuat Sequence Diagram](https://drive.google.com/file/d/12RcPh9kqhELR4VSJOWBoQWCIB8P7bg23/view?usp=drive_link)
-* [Membuat DFD](https://drive.google.com/file/d/1KNBJRJbzBMh9D1eDC5wqlC64OpA8mWnz/view?usp=drive_link)
-* [Membuat ERD](https://drive.google.com/file/d/1Z6M1lc287SEiRnlNpvXawBjcKYQvhNlg/view?usp=drive_link)
-* [Membuat Class Diagram](https://drive.google.com/file/d/15onxDvQw0Lhv0Rqs3GzkBxInQVomZIUJ/view?usp=drive_link)
+* [Membuat Activity Diagram](https://drive.google.com/drive/folders/1bSIcCGBi9kKUarzY5-zIWAPQ_jl_lgqT?usp=drive_link)
+* [Membuat Sequence Diagram](https://drive.google.com/drive/folders/1vTlv9dBGCsCjmTyKWW3dIvVDPZhfjfsE?usp=drive_link)
+* [Membuat DFD](https://drive.google.com/file/d/1daIDFkwUyXFzNo6aJ14qP6OJKSRcQPJ2/view?usp=drive_link)
+* [Membuat ERD](https://drive.google.com/file/d/1P4LJF-p3rtMqUndHpDVh_UrwgD3FMS7V/view?usp=drive_link)
+* [Membuat Class Diagram](https://drive.google.com/file/d/12Zkq_xQLfzsVaSKNL6szIlnBSvmq9mDr/view?usp=drive_link)
 
 ### 3. Machine Learning Engineering
 Untuk tahap Data Prepocessing & Cleaning, Exploratory Data Analysis (EDA), Feature Engineering & Selection, Model Selection, Model Training, Model Evaluation, Model Optimization (Hyperparameter Tuning), dan Model Validation bisa dibuka dengan [Google Collab](https://colab.research.google.com/drive/1Rgu0V0fmuFxx9VKVu605AUDy_kWysTlb?usp=sharing). Sedangkan untuk Deployment Machine Learning kalian bisa lihat di [repo CHURN-ML](https://github.com/PBL-S6-CHURN/CHURN-ML).
+
+### 4. Natural Language Processing
+* [Link Google Collab](https://www.figma.com/design/glqOypUMAZ3ijArhodEOYx/Untitled?node-id=0-1&t=F1VbJZZ6W9xMsq2s-1)
 
 ### 4. Pemodelan & Perancangan Sistem
 * [Perancangan UI & UX](https://www.figma.com/design/glqOypUMAZ3ijArhodEOYx/Untitled?node-id=0-1&t=F1VbJZZ6W9xMsq2s-1)
 * [Arsitektur API](https://docs.google.com/document/d/1NuaAmzuusp22zhVWWwtI_Pg1myBvBDSoHqZrO6AGSSQ/edit?usp=drive_link)
 
 ### 5. Pengembangan Sistem
-* *Database*
-
-Keterangan: Untuk Backend dan Frontend bisa dilihat di Repo [CHURN-FE](https://github.com/PBL-S6-CHURN/CHURN-FE) dan [CHRUN-BE](https://github.com/PBL-S6-CHURN/CHURN-BE). 
+* Untuk Backend dan Frontend bisa dilihat di Repo [CHURN-FE](https://github.com/PBL-S6-CHURN/CHURN-FE) dan [CHRUN-BE](https://github.com/PBL-S6-CHURN/CHURN-BE). 
 
 
 ---
